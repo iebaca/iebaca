@@ -11,7 +11,7 @@
   </em>
 </p>
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=grey)](https://github.com/iebaca)
+[![Github](https://img.shields.io/badge/GitHub-2500?style=for-the-badge&logo=github&logoColor=black)](https://github.com/iebaca)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iebaca/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivane.baca@gmail.com)
 
@@ -20,6 +20,7 @@
 
 <p align='center'>
   <!-- Tecnologías Iniciales --->
+  <img alt="GitHub" src="https://img.shields.io/github/license/iebaca/badge-maker?style=flat&logo=css3&label=css3&labelColor=red">
   <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">  
