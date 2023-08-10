@@ -45,7 +45,7 @@
 <p align='center'>
   <!-- Virtualizacion --->
   <img src="https://img.shields.io/badge/-VMWare-red?style=flat&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/-VirtualBox-eed718?style=flat&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/-VirtualBox-b304d7?style=flat&logo=virtualbox&logoColor=ffffff">
 </p>
 
 ---
