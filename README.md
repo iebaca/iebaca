@@ -20,15 +20,18 @@
 
 <p align='center'>
   <!-- Tecnologías Iniciales --->
-  <img alt="GitHub" src="https://img.shields.io/github/iebaca/iebaca?logo=github&label=github">
-  <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">  
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  
+  <img src="https://img.shields.io/badge/-Terraform-blue?logo=terraform">
+  <img src="https://img.shields.io/badge/-Docker-E34F26?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kubernetes-1572B6?style=flat&logo=kubernetes&logoColor=white">  
+  <img src="https://img.shields.io/badge/-AWS-eed718?style=flat&logo=aws&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Linux-eed718?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-CI/CD-eed718?style=flat&logo=cicd&logoColor=white">
 </p>
 <p align='center'>
-  <!-- Framework CSS --->
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
+  <!-- Repositorios --->
+  <img src="https://img.shields.io/badge/github-grey?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/gitlab-blue?style=flat&logo=gitlab">
 </p>
 <p align='center'>
   <!-- FrontEnd --->
