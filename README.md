@@ -7,7 +7,7 @@
     From Buenos Aires, Argentina.</br>
     System Enginner at <a href="https://www.unlam.edu.ar/">Universidad Nacional de La Matanza</a>
     <!--img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"--></br>
-    Devops Engineer Jr. </br>
+    Being Devops Engineer Jr. </br>
   </em>
 </p>
 
