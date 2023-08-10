@@ -25,26 +25,26 @@
   <img src="https://img.shields.io/badge/-Docker-E34F26?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Kubernetes-1572B6?style=flat&logo=kubernetes&logoColor=white">  
   <img src="https://img.shields.io/badge/-AWS-eed718?style=flat&logo=amazon%20web%20services&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Linux-eed718?style=flat&logo=linux&logoColor=green">
-  <img src="https://img.shields.io/badge/-CI/CD-eed718?style=flat&logo=devops&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-CI/CD?style=flat&logo=devops&logoColor=white">
 </p>
 <p align='center'>
   <!-- Repositorios --->
   <img src="https://img.shields.io/badge/github-grey?style=flat&logo=github">
   <img src="https://img.shields.io/badge/gitlab-blue?style=flat&logo=gitlab">
-  <img src="https://img.shields.io/badge/git-red?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/git?style=flat&logo=git">
 </p>
 <p align='center'>
   <!-- Tools --->
   <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/-Jira-eed718?style=flat&logo=jira&logoColor=red">
+  <img src="https://img.shields.io/badge/-Jira-eed718?style=flat&logo=attlasian&logoColor=red">
   <img src="https://img.shields.io/badge/-Scrum-eed718?style=flat&logo=scrum&logoColor=white">
 </p>
 
 <p align='center'>
   <!-- Virtualizacion --->
   <img src="https://img.shields.io/badge/-VMWare-red?style=flat&logo=vmware&logoColor=white">
-  <img src="https://img.shields.io/badge/-VirtualBox-eed718?style=flat&logo=virtualbox&logoColor=red">
+  <img src="https://img.shields.io/badge/-VirtualBox-eed718?style=flat&logo=virtualbox&logoColor=white">
 </p>
 
 ---
