@@ -43,7 +43,7 @@
 ## •💻 A little more about me...
 
 ---
-<iframe src="https://gifer.com/embed/5Sa" width=480 height=355.242 frameBorder="0" allowFullScreen></iframe> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://i.gifer.com/Efyg.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
