@@ -20,8 +20,7 @@
 
 <p align='center'>
   <!-- Tecnologías Iniciales --->
-  <img alt="GitHub" src="https://img.shields.io/github/license/iebaca/iebaca?style=flat&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3E42%3C%2Ftitle%3E%3Cpath%20d%3D%22M24%2012.42l-4.428%204.415H24zm-4.428-4.417l-4.414%204.418v4.414h4.414V12.42L24%208.003V3.575h-4.428zm-4.414%200l4.414-4.428h-4.414zM0%2015.996h8.842v4.43h4.412V12.42H4.428l8.826-8.846H8.842L0%2012.421z%22%2F%3E%3C%2Fsvg%3E&logoColor=white&label=Gitlab&labelColor=white">
-
+  <img alt="GitHub" src="https://img.shields.io/github/iebaca/iebaca?logo=github&label=github">
   <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">  
