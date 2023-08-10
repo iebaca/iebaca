@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Docker-E34F26?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Kubernetes-1572B6?style=flat&logo=kubernetes&logoColor=white">  
   <img src="https://img.shields.io/badge/-AWS-eed718?style=flat&logo=amazon%20web%20services&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Linux?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/-CI/CD?style=flat&logo=devops&logoColor=white">
 </p>
 <p align='center'>
