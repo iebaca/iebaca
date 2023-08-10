@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Iván Baca</h2>
 
-<img align='right' src="https://github.com/iebaca/iebaca/blob/main/fotoCV.jpeg" />
+<img align='right' src="https://github.com/iebaca/iebaca/blob/main/fotoCV.jpg" />
 
 <p>
   <em>
@@ -20,7 +20,7 @@
 
 <p align='center'>
   <!-- Tecnologías Iniciales --->
-  <img src="https://img.shields.io/badge/logo-gitlab-blue?style=flat&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">  
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
