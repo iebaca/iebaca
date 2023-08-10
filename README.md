@@ -32,7 +32,7 @@
   <!-- Repositorios --->
   <img src="https://img.shields.io/badge/github-grey?style=flat&logo=github">
   <img src="https://img.shields.io/badge/gitlab-blue?style=flat&logo=gitlab">
-  <img src="https://img.shields.io/badge/git?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/git-red?style=flat&logo=git&logoColor=white">
 </p>
 <p align='center'>
   <!-- Tools --->
