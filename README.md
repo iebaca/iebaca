@@ -24,51 +24,26 @@
   <img src="https://img.shields.io/badge/-Terraform-blue?logo=terraform">
   <img src="https://img.shields.io/badge/-Docker-E34F26?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Kubernetes-1572B6?style=flat&logo=kubernetes&logoColor=white">  
-  <img src="https://img.shields.io/badge/-AWS-eed718?style=flat&logo=aws&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-AWS-eed718?style=flat&logo=amazon%20web%20services&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Linux-eed718?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/-CI/CD-eed718?style=flat&logo=cicd&logoColor=white">
+  <img src="https://img.shields.io/badge/-CI/CD-eed718?style=flat&logo=devops&logoColor=white">
 </p>
 <p align='center'>
   <!-- Repositorios --->
   <img src="https://img.shields.io/badge/github-grey?style=flat&logo=github">
   <img src="https://img.shields.io/badge/gitlab-blue?style=flat&logo=gitlab">
+  <img src="https://img.shields.io/badge/git-red?style=flat&logo=git">
 </p>
 <p align='center'>
   <!-- FrontEnd --->
-  <img src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery">
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-</p>
-<p align='center'>
-  <!-- BackEnd --->
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql">
-  <img src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb">
-  <!-- Falta SQL Server -->
-</p>
-<p align='center'>
-  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-</p>
-<p align='center'>
-  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-</p>
-<p align='center'>
-  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 ---
 ## •💻 A little more about me...
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://i.gifer.com/5Sa.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
